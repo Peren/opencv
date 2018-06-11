@@ -63,6 +63,7 @@ extern "C" {
 #endif
 
 #include "ffmpeg_codecs.hpp"
+#include <libavcodec/avcodec.h>
 
 #include <libavutil/mathematics.h>
 
